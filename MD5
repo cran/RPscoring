@@ -1,0 +1,11 @@
+e25a28f1ac8ed3e267ec31497ee811b0 *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+c1d9ee33ae02e6d19f2d607148d7d63a *R/dashmatrix.R
+532b856749ca56a1717d40bacaf433e5 *R/data-testdata.R
+1a22304e44e0cbf11a54eebd5dedb60f *R/rankContestants.R
+7f2d3b75df801534db9c3995830d7110 *R/resolveTies.R
+e72b8576416bec33e25eca3283765125 *data/testdata.rda
+543e4cdf971cf1b810732b50cd40459c *man/dashmatrix.Rd
+8247e0c8c61f6b2c336f27bdb44af083 *man/rankContestants.Rd
+2363f6e3d265005241f7ec1aeec81679 *man/resolveTies.Rd
+1e56e1d8c4d35581746432d370b81d83 *man/testdata.Rd
